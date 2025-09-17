@@ -3,6 +3,7 @@
 Being a developer isn't just about writing code. It's also about how you organize it, fix it when it breaks, and work with others. Mastering these skills will make you a more effective and professional programmer.
 
 ---
+## New summary about the modules: [The Big Picture: The Problem with One Giant File](https://github.com/envico801/JavaScript-The-Advanced-Concepts/blob/main/Course%20summary/07-Code%20Organization%20%26%20Safety/01-Modules/README.md)
 
 ### 1. Modules: Organizing Your Code
 
